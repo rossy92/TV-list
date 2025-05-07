@@ -34,10 +34,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/316338
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3249873828/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai", RAI ITALIA
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/374675593/index.m3u8
@@ -46,10 +46,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/374675
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
@@ -64,10 +64,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/286173
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Rai", RAI SPORT
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2924135092/index.m3u8
@@ -145,22 +145,22 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/353800
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1351631603/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1376440573/index.m3u8
-
-#EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2 (2)
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2911178456/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport", DAZN2 (2)
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1376440573/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
+
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2 (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="intertv.it" tvg-name="INTER TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport", INTER TV
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2973773076/index.m3u8
@@ -193,10 +193,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/300740
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1665920101/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/449990998/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1665920101/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORT F1
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/4246774056/index.m3u8
@@ -232,10 +232,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/326825
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2077387085/index.m3u8
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", SKY SPORT TENNIS
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2100771782/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", SKY SPORT TENNIS (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/78546677/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2100771782/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/210669162/index.m3u8
@@ -412,10 +412,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/877200
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/153693434/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3 (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/573618724/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
@@ -430,10 +430,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/225508
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3939513684/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6 (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3939513684/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 7
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
@@ -442,10 +442,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/361864
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8 (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
@@ -475,10 +475,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/318057
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1785098768/index.m3u8
 
 #EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="TG NORBA 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News", TG NORBA 24
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3379729817/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3413557893/index.m3u8
 
 #EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="TG NORBA 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News", TG NORBA 24 (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3413557893/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3379729817/index.m3u8
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TGCOM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News", TGCOM 24
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2418148449/index.m3u8
@@ -508,13 +508,13 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/128977
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (3)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", DISCOVERY K2
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
@@ -556,16 +556,16 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/355484
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
+
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/317837654/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/317837654/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/179844839/index.m3u8
@@ -604,10 +604,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/254253
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/1585005860/index.m3u8
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica", DEEJAY TV
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/963607327/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3802167244/index.m3u8
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica", DEEJAY TV (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3802167244/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/963607327/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO INDIE MUSIC CHART TV" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica", EURO INDIE MUSIC CHART TV
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3569731325/index.m3u8
@@ -748,10 +748,10 @@ https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/152723
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 https://huggingface.co/spaces/rossy92/tvprx/m3u?url=https://vavoo.to/play/62558606/index.m3u8
